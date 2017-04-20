@@ -1,2 +1,2 @@
 # PickColorFromImageAndroid
-Picking the Color from the Image in Android in HEX and RGB
+Picking the Color from the gallery or camera captured Image in Android in HEX and RGB
