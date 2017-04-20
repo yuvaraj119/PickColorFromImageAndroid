@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PickColorFromImage</string>
+    <string name="pick_color">Pick Color</string>
+</resources>
